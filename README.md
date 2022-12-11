@@ -1,1 +1,1 @@
-# [rsschool-cv] (https://crystalgoose.github.io/rsschool-cv/cv)
+# [rsschool-cv](https://crystalgoose.github.io/rsschool-cv/cv)
