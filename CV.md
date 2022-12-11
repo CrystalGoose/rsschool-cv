@@ -4,9 +4,9 @@
 =====
 
 ## Contacts
-**Telegram:** @halfasleeper
-**Email:** yessufjan@gmail.com
-**LinkedIn:** https://www.linkedin.com/in/marianna-streltsova/
+* **Telegram:** @halfasleeper
+* **Email:** yessufjan@gmail.com
+* **LinkedIn:** https://www.linkedin.com/in/marianna-streltsova/
 
 =====
 
